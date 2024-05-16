@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#quoteDisplay {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 50%;
+    font-size: 18px;
+}
+.m-auto{
+    font-family: "Merienda", cursive;
+}
+h1{
+    font-family: "Fugaz One", sans-serif;
+}
+
+
